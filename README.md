@@ -2,7 +2,7 @@
 
 
 - 💻 I’m currently working for NTTDATA COMPANY
-- 📚 Information Systems | UFSC - Third Period
+- 📚 Information Systems | UFSC 
 - 🕹 I’m currently work as FrontEnd Developer
 
 
