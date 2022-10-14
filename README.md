@@ -1,7 +1,7 @@
 ### console.log('Hello world 👋')
 
 
-- 💻 I’m currently working for MegaJogos/Fontec
+- 💻 I’m currently working for MegaJogos(https://www.megajogos.com.br/)
 - 📚 Information Systems | UFSC 
 - 🕹 I’m currently work as Fullstack Developer
 
