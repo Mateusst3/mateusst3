@@ -3,12 +3,12 @@
 - 💻 I’m currently working for MegaJogos(https://www.megajogos.com.br/)
 - 📚 Information Systems | UFSC 
 - 🕹 I’m currently work as Fullstack Developer
+- 🔥 Find me as a freelancer (https://app.bounties4.com/@/mateusst3)
 
 📫 How to reach me:
 <br>
 <a href = "mailto:mateus.silvateixeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateus-teixeira-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://app.bounties4.com/@/mateusst3" target="_blank" style="background-color: blue; padding: 10 10 10 10"> <p>Me contrate como freelancer!</p></a>
 <br>
 <br>
 <br>
