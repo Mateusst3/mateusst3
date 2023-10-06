@@ -1,15 +1,8 @@
 ### console.log('Hello world 👋')
 
-<div style="display: flex; flex-direction: row">
-  <div>
 - 💻 I’m currently working for MegaJogos(https://www.megajogos.com.br/)
 - 📚 Information Systems | UFSC 
 - 🕹 I’m currently work as Fullstack Developer
-    </div>
-  <div align="right">
-<a href="https://app.bounties4.com/@/mateusst3" target="_blank"><img title="bounties4.com/@/mateusst3" alt="bounties4.com/@/mateusst3" src="https://storage.googleapis.com/profile_avatar/production/101373271218242962807/1696611867678_badge.png" width="200" height="200" /></a>
-</div>
-</div>
 
 📫 How to reach me:
 <br>
