@@ -1,6 +1,6 @@
 ### console.log('Hello world 👋')
 
-- 💻 I’m currently working for MegaJogos(https://www.megajogos.com.br/)
+- 💻 I’m currently working for Nexfar
 - 📚 Information Systems | UFSC 
 - 🕹 I’m currently work as Fullstack Developer
 - 🔥 Find me as a freelancer (https://app.bounties4.com/@/mateusst3)
